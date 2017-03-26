@@ -1,7 +1,9 @@
-#Campers Leaderboard
+Campers Leaderboard
+-----------------
 FreeCodeCamp DataViz Project
 
 `npm install`
+
 `npm start`
 
 Open localhost:3000
